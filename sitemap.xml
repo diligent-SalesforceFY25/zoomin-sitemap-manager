@@ -9,4 +9,7 @@
 	<url>
 		<loc>https://help.highbond.com/helpdocs/highbond/de/Content/activity_center/authoring_ac.htm</loc>
 	</url>
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;url&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;loc&gt;somedata new&lt;/loc&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;/url&gt;
 </urlset>
