@@ -3205,6 +3205,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-faq/ai-content-generation-errors.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-faq/ai-trial.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-faq/boards-ai-faq.htm</loc>
 	</url>
 	<url>
@@ -3329,9 +3332,6 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/using-the-agenda-and-opening-a-book-bios.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/viewing-ai-content-book-bios.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/viewing-book-contents-bios.htm</loc>
@@ -3608,6 +3608,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/books/managing-ai-content-for-a-book-bwa.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/books/managing-auto-signin-consent.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/books/managing-books-from-current-books-hub-bwa.htm</loc>
