@@ -19441,6 +19441,51 @@
 		<loc>https://help.highbond.com/helpdocs/highbond/de/Default.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-activity-log.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-analyze-data.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-app-activity-log.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-app-perm.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-app-role.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-collab.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-data lineage.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-dataset.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-exp-table.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-getting-started.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-landing-page.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-nav.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-overview.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-settings.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/acl_ai_studio/acl-ai-view-tables.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/activity_center/activity_center_home.htm</loc>
 	</url>
 	<url>
@@ -24416,6 +24461,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/release_notes/release-notes-ac.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/release_notes/release-notes-acl-ai-studio.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/release_notes/release-notes-ai-risk-essenials.htm</loc>
