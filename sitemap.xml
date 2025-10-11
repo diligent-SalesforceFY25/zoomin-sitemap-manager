@@ -3988,6 +3988,18 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/global_topics/sitemap.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/release_notes/release-notes-boards.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/release_notes/release-notes-boards-ios.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/release_notes/release-notes-bwa.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/release_notes/release-notes-bwd.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Default.htm</loc>
 	</url>
 	<url>
@@ -20140,6 +20152,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/audit_analytics.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/activity-center-integration.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/administering_boardeffect.htm</loc>
 	</url>
 	<url>
@@ -20206,16 +20221,10 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/directory/selecting_user_permissions.htm</loc>
 	</url>
 	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/directory/unlocking_users.htm</loc>
-	</url>
-	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/hardware_software_requirements.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/home_page/homepage_adding_a_new_message.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/home_page/homepage_administrators.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/home_page/homepage_searching_for_content.htm</loc>
@@ -20330,9 +20339,6 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/add-an-action-to-minutes.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/add-and-manage-templates.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/adding-managing-templates.htm</loc>
@@ -20545,9 +20551,6 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/boardeffect-member-workflow.htm</loc>
 	</url>
 	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/download_the_boardeffect_app.htm</loc>
-	</url>
-	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/ipad_iphone_ios/ios_installing_the_app_and_getting_started.htm</loc>
 	</url>
 	<url>
@@ -20564,9 +20567,6 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/ipad_iphone_ios/ipad_download_view_meeting_book.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/ipad_iphone_ios/ipad_iphone_app_installation_login_authorization.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/ipad_iphone_ios/ipad_iphone_set_up_twofactor_authentication.htm</loc>
@@ -20708,9 +20708,6 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/web_platform/web_search_for_content.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/web_platform/web_set_up_twofactor_authentication.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/member/web_platform/web_sync_upcoming_events_to_a_calendar.htm</loc>
@@ -21769,6 +21766,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-ecct-changes-delivery-entities.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-efile-preconfigured-uk-accounts.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/electronic-filing/batch-sign-forms.htm</loc>
 	</url>
 	<url>
@@ -21950,6 +21950,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/getting-started/sign-in-to-entities.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/getting-started/trusts.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/group-structure/create-related-undertakings-report.htm</loc>
@@ -23278,15 +23281,6 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/equity/diligent_equity_api/waterfall.htm</loc>
 	</url>
 	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/equity/diligent_equity_training_videos_center/cap_table_management.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/equity/diligent_equity_training_videos_center/processing_terminations.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/equity/diligent_equity_training_videos_center/workflow_option_administration.htm</loc>
-	</url>
-	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/equity/equity-landing-page.htm</loc>
 	</url>
 	<url>
@@ -23723,6 +23717,18 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/enterprise_risk_management/reporting_and_monitoring_risk.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/fedramp/fedramp-overview.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/fedramp/implementing-fedramp-poam.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/fedramp/implementing-fedramp-ssp.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/fedramp/implementing-fedramp-toolkit.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/get_started/solution_guides/it_risk_management/itrm_with_rm/add_manage_risks_controls.htm</loc>
