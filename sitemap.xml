@@ -19534,6 +19534,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/activity_center/SOX_monitor_ac.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/administration/acl-ai-studio/acl-ai-app-perm-admin.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/administration/activity-center/ac-app-premissions.html</loc>
 	</url>
 	<url>
@@ -19568,6 +19571,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/administration/asset_manager/asset_manager_settings.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/administration/audit/audit-app-perm.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/administration/bulk_importer/bulk_uploading_actions.htm</loc>
@@ -19931,48 +19937,6 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/ai_risk_essentials/risk_mitigation/risk-mitigation.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/adding-an_issue_to_.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/Assess-filter.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/assessing_a_risk_on_a_risk_card.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/Assessments.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/assessments-getting-started.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completign_a_test_plan.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completing_a_questionnaire.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completing_a_test.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completing_a_walkthrough.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completing_activities_in_assessments.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/completing_and_managing_requests.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/managing_gaps_using_the_Risk_and_Control_Matrix.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/monitoring_and_managing_actions.htm</loc>
-	</url>
-	<url>
-		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/assessments/nav-assessments.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/asset_inventory/activity_logging.htm</loc>
@@ -21923,6 +21887,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/getting-started/favorites.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/getting-started/funds.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/getting-started/global-screen.htm</loc>
@@ -25006,6 +24973,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/risk_manager/risk_manager_fm_sync.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/risk_manager/risk_mngr_config.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/risk_manager/risk_score_config.htm</loc>
 	</url>
 	<url>
@@ -25376,6 +25346,51 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/strategy/visualizing_risks/visualizing_risk_aggregations.html</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/adding-an_issue_to_.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/Assess-filter.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/assessing_a_risk_on_a_risk_card.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/Assessments.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/assessments-getting-started.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completign_a_test_plan.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completing_a_questionnaire.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completing_a_test.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completing_a_walkthrough.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completing_activities_in_assessments.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/completing_and_managing_requests.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/managing_gaps_using_the_Risk_and_Control_Matrix.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/monitoring_and_managing_actions.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/nav-assessments.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/task_manager/risk-man-int.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/using_ai_services_responsibly.htm</loc>
