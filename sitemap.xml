@@ -2926,6 +2926,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/minutes/add-and-manage-templates.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/minutes/adding-reminders-to-an-action.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/minutes/attendance-reporting.htm</loc>
 	</url>
 	<url>
@@ -3086,6 +3089,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/questionnaires/basic-questionnaires/question_types/text-date-and-email-question-types.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/questionnaires/basic-questionnaires/question_types/text-question.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-add-ons/questionnaires/basic-questionnaires/question_types/the-list-question-type.htm</loc>
@@ -3335,6 +3341,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/using-the-agenda-and-opening-a-book-bios.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/viewing-ai-content-book-bios.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-ios/books-and-meetings/viewing-book-contents-bios.htm</loc>
@@ -3656,6 +3665,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/bwa-landing-page-bwa.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/device-authorization/blocking-a-device-from-all-sites-bwa.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/boards/en-us/Content/boards-web-admin/device-authorization/device-authorization-and-2fa-end-user-bwa.htm</loc>
