@@ -3502,6 +3502,9 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/adding-managing-templates.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/adding-reminders-to-an-action.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/attendance-reporting.htm</loc>
 	</url>
 	<url>
@@ -3536,6 +3539,9 @@
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/overview-minutes.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/record-meeting-attendance.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/boardeffect/admin/minutes/reviewing-minutes.htm</loc>
@@ -3673,7 +3679,22 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/data/data.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/diligent-boards/send-documents-to-boards.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/documents/managing-documents.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-acsp-codes.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-efile-preconfigured-uk-accounts.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-psc-idv-information.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/e-filing-united-kingdom/uk-ro-registered-legal-entity-details.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/entities-on-d1p.htm</loc>
@@ -3691,10 +3712,16 @@
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/group-structure-visualisation/ai-chart-assist.htm</loc>
 	</url>
 	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/group-structure-visualisation/merge-charts.htm</loc>
+	</url>
+	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/jurisdiction/entities-jurisdictions.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/modernized-entities/modernized-entities.htm</loc>
+	</url>
+	<url>
+		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/modernized-entities/navigating-modernized-entities.htm</loc>
 	</url>
 	<url>
 		<loc>https://help.diligentoneplatform.com/helpdocs/d1p/en-us/Content/entities/searches/entities-assistant.htm</loc>
